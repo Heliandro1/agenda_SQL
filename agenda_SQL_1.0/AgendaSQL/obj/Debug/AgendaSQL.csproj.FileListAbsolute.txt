@@ -1,0 +1,13 @@
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe.config
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.pdb
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.FrmMenu.resources
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.Properties.Resources.resources
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.GenerateResource.Cache
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.exe
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.pdb
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\bin\Debug\System.Data.SqlServerCe.dll
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.FrmAdicionarEditar.resources
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.FrmResultados.resources
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.FrmPesquisa.resources
+c:\users\heliandro\documents\visual studio 2015\Projects\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csprojResolveAssemblyReference.cache
